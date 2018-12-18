@@ -1,5 +1,6 @@
+<?php
 
-
+?>
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -17,7 +18,7 @@
         </style>
     </head>
     <body>
-    <?=$email?>
+    
             <h1>Hi!</h1>
 
             <a href="register.php">Update Info</a>
